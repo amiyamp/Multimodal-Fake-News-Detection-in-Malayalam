@@ -1,0 +1,5 @@
+gensim==4.2.0
+tensorflow
+nltk
+scikit-learn
+
